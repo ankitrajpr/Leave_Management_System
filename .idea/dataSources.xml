@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@localhost" uuid="22ebb03d-77d6-4ddf-8006-358f20093c63">
+      <driver-ref>couchbase_query</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.intellij.CouchbaseJdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:couchbase:localhost:11210</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MicroService:war">
+    <output-path>$PROJECT_DIR$/leave/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MicroService</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MicroService.war">
+      <element id="artifact" artifact-name="MicroService:war exploded" />
+    </root>
+  </artifact>
+</component>

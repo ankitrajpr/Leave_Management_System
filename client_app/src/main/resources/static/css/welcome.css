@@ -1,0 +1,21 @@
+#below{
+	display: none;
+}
+
+thead tr{
+	border: 2px solid blue;
+	background: #cccccc;
+}
+
+tbody tr{
+	border-bottom: 2px solid blue;
+}
+
+tbody tr td{
+	text-align:center;
+	
+}
+dt{
+	color:blue;
+	font-size:20px;
+}
