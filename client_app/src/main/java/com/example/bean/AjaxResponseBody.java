@@ -3,7 +3,7 @@ package com.example.bean;
 
 public class AjaxResponseBody {
 
-	private String statusMessage;//store success message
+	private String statusMessage;//store success messages
 	private String statusCode;//success code
 	private String data;//some data
 	
